@@ -84,7 +84,7 @@ const App = () => {
               fotoSelecionada={foto => setFotoSeleccionada(foto)}
               alAlternarFavorito={alAlternarFavorito}
               setTag={setTag}
-            />
+              />
             </ContenidoGaleria>
           </MainContainer>
         </AppContainer>
